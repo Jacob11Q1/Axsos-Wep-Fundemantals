@@ -1,13 +1,6 @@
 # Axsos-Wep-Fundemantals
 This repository contains assignments and practice projects completed as part of the AXSOS Academy training program.
-📂 Folder Structure
-HTML/ – Basic HTML assignments
 
-CSS/ – Styling exercises using CSS
-
-JavaScript/ – Interactive web pages using JS
-
-dojo_weather/, dojo_pizzeria/, etc. – Mini projects and coding challenges
 
 💡 Purpose
 This repo is used to:
