@@ -1,0 +1,162 @@
+.net{
+    margin: 0 auto;
+    width: 850px;
+    background-color: black;
+    display: flex;
+}
+
+.network{
+    margin: 7px;
+    padding: 10px;
+    color: #fefefe;
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.feed{
+    margin: 0 auto;
+    padding: 5px;
+    width: 850px;
+    position: relative;
+    left: 350px;
+    top: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.feedcounts{
+    margin: 0 auto;
+    width: 550px;
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.left-side{
+    margin: 0 auto;
+    width: 150px;
+    height: 250px;
+    padding: 5px;
+    position: relative;
+    top: 40px;
+    right: 150px;
+    border: 3px solid black;
+    display: block;
+    justify-content: center;
+}
+
+.left-side h1 , a{
+    margin: 5px;
+    padding: 10px;
+    display: block;
+    position: relative;
+    top: 50px;
+    left: 10px;
+    align-items: center;
+}
+
+.image{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    position: relative;
+    top: 25px;
+    left: 40px;
+}
+
+.right-nav{
+    margin: 0 auto;
+    width: 650px;
+    padding: 5px;
+    display: grid;
+    grid-template-rows: auto auto auto;
+}
+
+.upbox{
+    margin: 0 auto;
+    padding: 10px;
+    width: 450px;
+    position: relative;
+    right: 50px;
+    top: 35px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.neil{
+    margin: 0 auto;
+    padding: 5px;
+    display: flex;
+}
+
+.right-side{
+    margin: 0 auto;
+    position: relative;
+    left: 255px;
+    bottom: 60px;
+    gap: 15px;
+    display: flex;
+    align-items: center;
+}
+
+#likes{
+    margin: 10px;
+    padding-left: 5px;
+}
+
+.changelikes{
+    width: 75px;
+    height: 50px;
+    background-color: #ffd966;
+    color: #171409;
+    border: 2px solid black;
+    box-shadow: 4px 3px black;
+    font-family: fantasy;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.paragraph{
+    margin: 0 auto;
+    display: inline;
+}
+
+.text{
+    margin: 0 auto;
+    width: 250px;
+    padding-bottom: 10px;
+    position: relative;
+    right: 95px;
+}
+
+.link{
+    display: inline;
+    position: absolute;
+    top: 140px;
+    left: 160px;
+}
+
+.upbox1{
+    margin: 0 auto;
+    margin-top: 10px;
+    padding: 10px;
+    width: 450px;
+    position: relative;
+    right: 50px;
+    top: 35px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.paragraph1{
+    margin: 0 auto;
+    width: 400px;
+    display: inline-block;
+    align-items: center;
+}
+
+.comic{
+    margin: 0 auto;
+    width: 90px;
+    height: 50px;
+    position: inherit;
+    display: inline-block;
+}

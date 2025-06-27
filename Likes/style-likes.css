@@ -1,0 +1,43 @@
+.likes{
+    margin: 0 auto;
+    padding: 10px;
+    width: 450px;
+    border: 3px solid black;
+    display: inline-block;
+}
+
+.up-nav{
+    margin: 0 auto;
+    padding: 5px;
+    display: flex;
+}
+
+.right-nav{
+    margin: 0 auto;
+    padding: 5px;
+    position: relative;
+    left: 25px;
+    gap: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.click{
+    width: 75px;
+    height: 50px;
+    background-color: #ffd966;
+    color: #171409;
+    border: 2px solid black;
+    box-shadow: 4px 3px black;
+    font-family: fantasy;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.text{
+    margin: 0 auto;
+    width: 250px;
+    padding-bottom: 10px;
+    position: relative;
+    right: 95px;
+}
