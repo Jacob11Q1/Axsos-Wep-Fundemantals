@@ -14,7 +14,7 @@ This repo is used to:
 
 Track learning progress during the academy
 
-Practice front-end web development skills
+Practice full stack web development skills
 
 Complete and submit weekly assignments
 
