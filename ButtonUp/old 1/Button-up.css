@@ -1,0 +1,26 @@
+#box1{
+    border-color: aqua;
+    color: aqua;
+    background-color: white;
+    overflow: hidden;
+    border-radius: 75px;
+}
+
+#box2{
+    border-color: blue;
+    background: fixed;
+    overflow: hidden;
+    color: blue;
+    border-radius: 50px;
+}
+
+input{
+    padding: 5px;
+    border-color: black;
+}
+
+input[type="submit"]{
+    color: white;
+    background-color: blue;
+    box-shadow: 2px 2px black;
+}

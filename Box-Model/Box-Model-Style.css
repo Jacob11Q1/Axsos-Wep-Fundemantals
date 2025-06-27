@@ -1,0 +1,28 @@
+h1{
+    color: white;
+    background-color: black;
+    text-align: left;
+    font-size: xx-large;
+    font-family: monospace;
+}
+
+.Cloud{
+    color: aqua;
+}
+
+h2{
+    color: white;
+background-color: purple;
+text-align: center;
+font-size: large;
+font-family: cursive;
+}
+
+h3{
+    color: blueviolet;
+    background-color: aqua;
+    text-align: right;
+    text-decoration: underline;
+    font-size: small;
+    font-family: unset;
+}

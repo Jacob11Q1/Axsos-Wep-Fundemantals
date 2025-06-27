@@ -1,0 +1,40 @@
+body{
+    padding: 30px;
+}
+.Search{
+    color: #119b9d;
+    border: 1px solid #5dbbbc;
+    background-color: #f5f5f5;
+    border-radius: 20px;
+    padding: 5px 20px;
+    font-family: cursive;
+    font-weight: bold;
+    cursor: pointer;
+}
+button{
+    display: block;
+}
+.plus{
+    background-color: #00d1b2;
+    font-size: x-large;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    border: none;
+}
+.create{ 
+    background-color: #2b78e4;
+    padding: 10px 20px;
+    border: 2px solid #000000;
+    box-shadow: 4px 4px 0px #000000;
+}
+.plus,.create{
+    color: #ffffff;
+    cursor: pointer;
+}
+.plus,.create,.Search{
+    margin-bottom: 10px;
+}
+.create,.Search{
+    width: 30%;
+}

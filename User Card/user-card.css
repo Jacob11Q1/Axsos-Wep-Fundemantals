@@ -1,0 +1,66 @@
+body{
+    margin: 0 auto;
+    width: 550px;
+}
+
+main{
+    width: 100%;
+    border: 2px solid #cfcfcf;
+}
+
+.cover{
+    background-color: #17a2b8;
+    height: 100px;
+    width: 100%;
+}
+
+.p-pic{
+    height: 90px;
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid white;
+    animation-fill-mode: forwards;
+    position: relative;
+    top: 50px;
+    left: 15px;
+}
+
+h1{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    top: 25px;
+    left: 15px;
+}
+
+.mid-content{
+    width: 75%;
+    position: relative;
+    left: 15px;
+    bottom: 15px;
+}
+
+.user{
+    margin: 0 auto;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    gap: 15px;
+}
+
+.p-pic1{
+    width: 25px;
+    height: 25px;
+    align-items: center;
+}
+
+.engine{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    bottom: 15px;
+    left: 15px;
+}

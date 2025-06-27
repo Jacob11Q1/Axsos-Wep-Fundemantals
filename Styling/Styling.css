@@ -1,0 +1,24 @@
+h1{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: cursive;
+    padding: 10px;
+}
+span{
+    color: #00ffff;
+}
+h2{
+    background-color: #663399;
+    color: #fffeff;
+    text-align: center;
+    font-family: monospace;
+    padding: 10px;
+}
+h3{
+    background-color: #9fc5f8;
+    color: #36316b;
+    text-decoration: underline;
+    text-align: right;
+    font-family: monospace;
+    padding: 10px;
+}
