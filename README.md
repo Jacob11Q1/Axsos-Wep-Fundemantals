@@ -1,26 +1,60 @@
-# Axsos-Wep-Fundemantals
-This repository contains assignments and practice projects completed as part of the AXSOS Academy training program.
+# 🌐 AXSOS Web Fundamentals
 
+Welcome to my AXSOS Academy Web Fundamentals repository!  
+This repo contains all the HTML, CSS, and basic JavaScript projects and exercises I completed during the Web Fundamentals phase of the AXSOS Full Stack Bootcamp.
 
-💡 Purpose
-This repo is used to:
+## 🧠 What I Learned
 
-Track learning progress during the academy
+This part of the bootcamp focused on mastering the fundamentals of front-end development:
 
-Practice full stack web development skills
+- 🧱 HTML5: structure, semantic elements, forms
+- 🎨 CSS3: styling, positioning, Flexbox, Grid, responsive design
+- ⚙️ Basic JavaScript: DOM manipulation, events
+- 💡 Web standards and best practices
+- 🌍 Project structure and workflow
 
-Complete and submit weekly assignments
+## 📁 Project Structure
 
-✅ Topics Covered
-HTML5 & CSS3
+Axsos-Wep-Fundemantals/
+├── HTML/
+│ └── index.html
+├── CSS/
+│ └── style.css
+├── Projects/
+│ ├── ProfilePage/
+│ ├── Portfolio/
+│ └── TravelLandingPage/
+└── README.md
 
-JavaScript (DOM manipulation, functions, events)
+🔍 Sample Projects
+Project Name	Description
+Profile Page	Basic HTML/CSS layout and styling
+Simple Portfolio	Showcasing HTML/CSS fundamentals
+Travel Landing Page	Responsive layout using Flexbox
 
-Flexbox & Grid layout
+🛠️ Technologies Used
+HTML5
 
-Problem-solving and algorithm challenges
+CSS3
 
-👨‍💻 Author
-Mahmoud Mousa
+JavaScript (basic)
 
-Trainee at AXSOS Academy
+VS Code
+
+Chrome DevTools
+
+🎯 Goals
+Build a strong foundation in front-end web development
+
+Practice clean and semantic code
+
+Prepare for more advanced full stack projects
+
+📌 Author
+Jacob Qumsiyeh
+GitHub Profile
+AXSOS Full Stack Student | Future Web Developer
+
+📝 License
+This repository is for educational purposes only.
+All work is original or adapted from AXSOS course materials.
