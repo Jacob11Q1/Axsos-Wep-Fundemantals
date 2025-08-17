@@ -1,60 +1,97 @@
-# 🌐 AXSOS Web Fundamentals
+# AXSOS Academy - Web Fundamentals
 
-Welcome to my AXSOS Academy Web Fundamentals repository!  
-This repo contains all the HTML, CSS, and basic JavaScript projects and exercises I completed during the Web Fundamentals phase of the AXSOS Full Stack Bootcamp.
+Welcome to my repository for the AXSOS Academy Web Fundamentals module! 👨‍💻
 
-## 🧠 What I Learned
+This repository contains assignments, practice projects, and exercises completed as part of the AXSOS Academy Full Stack Developer Bootcamp. The curriculum focuses on building a strong foundation in web development using HTML, CSS, JavaScript, and Git.
 
-This part of the bootcamp focused on mastering the fundamentals of front-end development:
+---
 
-- 🧱 HTML5: structure, semantic elements, forms
-- 🎨 CSS3: styling, positioning, Flexbox, Grid, responsive design
-- ⚙️ Basic JavaScript: DOM manipulation, events
-- 💡 Web standards and best practices
-- 🌍 Project structure and workflow
+## 📚 Topics Covered
 
-## 📁 Project Structure
+Throughout this module, I have focused on mastering the following core web development concepts:
+
+- **HTML5**: Understanding the structure of web pages using semantic elements.
+- **CSS3**: Styling web pages with modern techniques, including Flexbox and Grid.
+- **JavaScript**: Implementing interactivity and logic in web pages.
+- **Git & GitHub**: Version control and collaboration using Git and GitHub.
+- **Responsive Design**: Creating layouts that adapt to various screen sizes.
+- **DOM Manipulation**: Interacting with and modifying the Document Object Model.
+- **Debugging**: Identifying and fixing issues in code.:contentReference[oaicite:14]{index=14}
+
+---
+
+## 🗂️ Repository Structure
+
+The repository is organized by topics and projects:
 
 Axsos-Wep-Fundemantals/
-├── HTML/
-│ └── index.html
-├── CSS/
-│ └── style.css
-├── Projects/
-│ ├── ProfilePage/
-│ ├── Portfolio/
-│ └── TravelLandingPage/
-└── README.md
+├── Arrays/
+├── Box-Model/
+├── Button Clicker/
+├── ButtonUp/
+├── Dictionary Entry/
+├── Dojo Pizzeria/
+├── Dojo Weather/
+├── Fix-Indentation/
+├── FizzBuzz/
+├── Flex-Navbar/
+├── GitHub Blocks/
+├── LeetCode TwoSum/
+├── Likes/
+├── Making Connections/
+├── Personal Portfolio/
+├── Practise 2 - If and Else/
+├── Practise 3 - Functions/
+└── Practise-1 Variables/
 
-🔍 Sample Projects
-Project Name	Description
-Profile Page	Basic HTML/CSS layout and styling
-Simple Portfolio	Showcasing HTML/CSS fundamentals
-Travel Landing Page	Responsive layout using Flexbox
+yaml
+Copy
+Edit
 
-🛠️ Technologies Used
-HTML5
+Each folder contains:
 
-CSS3
+- **HTML**: The structure of the web page.
+- **CSS**: The styling applied to the page.
+- **JavaScript**: The functionality and interactivity.
+- **README.md**: Instructions and explanations for the project.:contentReference[oaicite:23]{index=23}
 
-JavaScript (basic)
+---
 
-VS Code
+## 🚀 Learning Goals
 
-Chrome DevTools
+- **Master Web Fundamentals**: Gain proficiency in HTML, CSS, and JavaScript.
+- **Responsive Design**: Build layouts that work across different devices.
+- **Version Control**: Utilize Git and GitHub for code management.
+- **Problem Solving**: Enhance logical thinking through coding challenges.
+- **Project Development**: Develop and deploy small projects to showcase skills.:contentReference[oaicite:34]{index=34}
 
-🎯 Goals
-Build a strong foundation in front-end web development
+---
 
-Practice clean and semantic code
+## 🛠️ Technologies Used
 
-Prepare for more advanced full stack projects
+- **Languages**: HTML5, CSS3, JavaScript
+- **Tools**: Git, GitHub, Visual Studio Code
+- **Libraries/Frameworks**: None (vanilla JavaScript):contentReference[oaicite:41]{index=41}
 
-📌 Author
-Jacob Qumsiyeh
-GitHub Profile
-AXSOS Full Stack Student | Future Web Developer
+---
 
-📝 License
-This repository is for educational purposes only.
-All work is original or adapted from AXSOS course materials.
+## 📸 Sample Projects
+
+Here are a few highlights from the repository:
+
+- **Button Clicker**: A simple interactive button that counts clicks.
+- **Dojo Pizzeria**: A mock-up of a pizzeria menu with dynamic pricing.
+- **LeetCode TwoSum**: Solving the TwoSum problem using JavaScript.
+- **Personal Portfolio**: A personal portfolio website to showcase projects and skills.:contentReference[oaicite:50]{index=50}
+
+---
+
+## 📬 Connect with Me
+
+- **Email**: qumsiyeh37@gmail.com
+- **LinkedIn**: [Yacoub Qumseya](https://www.linkedin.com/in/yacoub-qumseya-9227a2132/)
+- **GitHub**: [Jacob11Q1](https://github.com/Jacob11Q1)
+
+Feel free to explore my projects and exercises! I'm always looking to improve and collaborate, so feedback is welcome.
+
+---
